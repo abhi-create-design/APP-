@@ -221,7 +221,7 @@ body{
 /* ================================ */
 .hero{
     height:50vh;
-    background-image: url("images/hero.jpg");
+    background-image: url("hero.jpg");
     background-size: cover;
     background-position: center;
     background-color: rgba(0,0,0,0.5);
@@ -270,7 +270,7 @@ body{
     cursor: pointer;
 }
 .video__container{
-    background-image:url("images/video.jpg");
+    background-image:url("video.jpg");
     background-size: cover;
     background-position: center;
     background-blend-mode: overlay;
